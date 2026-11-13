@@ -1,5 +1,9 @@
 # Tugas-Git-Kelompok8
+Project Kolaborasi Git Kelompok 8.
 Anggota Kelompok:
 1. Leli
+Email: leelileli888@gmail.com
 2. Amir Akbar
-3. Resti Apriyani
+Email: akbargoprojek01@gmail.com
+3. Resti Apriyani 
+Email: restiapriyani004@gmail.com
